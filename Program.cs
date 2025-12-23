@@ -9,3 +9,4 @@ int n = 3;
 var firstElements = numbers.Take(n).ToList();
 
 Console.WriteLine($"Первые {n} элемента: " + string.Join(", ", firstElements));
+//Павельев Илья
